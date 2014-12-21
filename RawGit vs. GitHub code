@@ -1,6 +1,20 @@
 RawGit version: https://rawgit.com/jchlbk/bootstrap-editable-table/gh-pages/bootstrap-editable-table.js
 GitHub version: https://raw.githubusercontent.com/jchlbk/bootstrap-editable-table/gh-pages/bootstrap-editable-table.js
 
+These versions feature rows that auto-add, but they also "auto-disappear" and they don't sort.
 http://jsfiddle.net/t0rf0jed/14/
 http://jsfiddle.net/t0rf0jed/25/
 http://jsfiddle.net/t0rf0jed/26/
+
+These versions have auto-added rows, but need "enter" to fix entries.
+http://jsfiddle.net/vCTHw/1042/
+http://jsfiddle.net/vCTHw/1052/
+
+This version and below try to implement a different method of adding and subtracting rows, borrowed from 810 below.
+http://jsfiddle.net/vCTHw/1055/
+
+These versions sum the cost and feature add and "x" buttons.
+http://jsfiddle.net/sqrrt/809/
+http://jsfiddle.net/sqrrt/811/
+
+
