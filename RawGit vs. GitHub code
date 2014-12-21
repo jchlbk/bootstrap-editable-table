@@ -9,7 +9,7 @@ http://jsfiddle.net/t0rf0jed/26/
 These versions have auto-added rows, but need "enter" to fix entries.
 http://jsfiddle.net/vCTHw/1042/
 http://jsfiddle.net/vCTHw/1052/
-http://jsfiddle.net/vCTHw/1064/   //this version doesn't sort
+http://jsfiddle.net/vCTHw/1066/  //this version doesn't sort
 
 This version and below try to implement a different method of adding and subtracting rows, borrowed from 810 below.
 http://jsfiddle.net/vCTHw/1055/
